@@ -26,7 +26,7 @@ async def upload_fridge(file: UploadFile = File(...)):
     )
     
     task = workflow.apply_async()
-    return {"task_id": task.id, "status": "Processing request: Analyzing photo and finding recipes..."}
+    return {"task_id": task.id, "status": "Processing request1: Analyzing photo and finding recipes..."}
 
 
 @app.get("/tasks/{task_id}")
