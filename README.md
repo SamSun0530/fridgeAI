@@ -1,6 +1,6 @@
-# ReceipeCreator
+# RecipeCreator
 
-**ReceipeCreator** turns a photo of your fridge or pantry into a practical cooking plan. Upload an image, and the system identifies ingredients, finds similar recipes from a vector database, and uses a large language model to pick the best match, suggest substitutions from what you already have, and list anything you still need to buy.
+**RecipeCreator** turns a photo of your fridge or pantry into a practical cooking plan. Upload an image, and the system identifies ingredients, finds similar recipes from a vector database, and uses a large language model to pick the best match, suggest substitutions from what you already have, and list anything you still need to buy.
 
 ---
 
